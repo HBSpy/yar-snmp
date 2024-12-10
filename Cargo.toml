@@ -1,0 +1,9 @@
+[package]
+name = "yar-snmp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rasn = "0.22.0"
+rasn-smi = "0.22.0"
+rasn-snmp = "0.22.0"
